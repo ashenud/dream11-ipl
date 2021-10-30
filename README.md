@@ -1,0 +1,1 @@
+#### Simple JavaScript script for analyses group member's data in Dream 11 IPL fantasy league 2019
